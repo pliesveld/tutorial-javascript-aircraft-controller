@@ -1,0 +1,24 @@
+{
+  "name": "javascript-starter",
+  "version": "1.0.0",
+  "description": "Clarifai V2 JavaScript Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine queueSpec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Clarifai/javascript-starter/issues"
+  },
+  "homepage": "https://github.com/Clarifai/javascript-starter#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "filereader": "^0.10.3",
+    "jasmine": "^3.5.0"
+  }
+}
